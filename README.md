@@ -2,11 +2,25 @@
 
 ### Seja bem vindo ao meu perfil aqui no GitHub 👋🏻<br />
 
-Com mais de oito anos de experiência em infraestrutura de TI, tenho uma atuação multifacetada na área. Sou formado em Ciência da Computação pela Universidade Federal de Ouro Preto e possuo múltiplas cursos de capacitação na área de TI.<br />
-Hoje atuo como um conteudista na Cogna Educação, onde produzo aulas de qualidade para as disciplinas de Sistemas Operacionais, Administração de Servidores, Eletrônica Digital e Segurança da Informação.<br />
-Com ampla expertise em administração de servidores Windows e Linux, destaco-me na gestão de incidentes, segurança de redes e virtualização. Utilizo tecnologias, como Ansible, Grafana, Zabbix e Prometheus, para um monitoramento eficaz. Implemento estratégias DevOps com Git, Jenkins e Docker, enquanto o Kubernetes orquestra a escalabilidade, garantindo eficiência na gestão de redes complexas.<br />
-A programação em Shell Script e Python é fundamental para automação de tarefas. Adoto práticas eficientes em gestão de configuração, manutenção de hardware e suporte técnico, abrangendo também conformidade e padrões. Na segurança da informação, destaco o uso do pfSense para fortalecimento de firewalls e controle de acesso, Active Directory e OpenLDAP para gerenciamento de identidade, ativos de TI, e integração de diretórios. Uso e implementação do Vagrant para facilitar o provisionamento e gerenciamento de ambientes de desenvolvimento.<br />
-Além disso, incorporo o Terraform para automação da infraestrutura como código, proporcionando consistência e controle na implementação de recursos na nuvem. Minha experiência abrange a AWS, oferecendo resiliência e eficiência em desafios de TI.<br />
+Com mais de oito anos de experiência em infraestrutura de TI, possuo experiência multifacetada na área. Sou formado em Ciência da Computação pela Universidade Federal de Ouro Preto possuo diversos cursos de formação na área de TI.
+<br />
+Tenho conhecimento e experiência em:
+<br />
+<ul>
+    <li>Suporte ao usuário</li>
+    <li>Suporte de TI N1, N2, N3</li>
+    <li>Administração de Servidores Linux (Debian, Ubuntu Server, CentOS) e Windows Server</li>
+    <li>Administração avançada de sistemas Linux e Windows</li>
+    <li>Configuração de rede</li>
+    <li>Configuração e Administração de serviços de rede (DHCP, DNS, FTP, WEB Server, Proxy, Firewall (iptables, pfSense), SSH, VPN, NTP, FileServer, Active Directory, SAMBA, NFS)</li>
+    <li>Monitoramento e Observabilidade (Zabbix, Prometheus, Grafana)</li>
+    <li>Preparação de scripts para automação (Shell Script, Phyton)</li>
+    <li>Gerenciamento de configuração (Ansible, Chef)</li>
+    <li>Ferramentas DevOps (Docker, Kubernetes, Jenkins, Git)</li>
+    <li>Nuvem (AWS, Azure, Terraform)</li>
+    <li>Banco de dados (MySQL)</li>
+</ul>
+<br />
 
 ## Tecnologias e ferramentas que uso no meu dia ou já utilizei - Infra/SysAdmin/DevOps 💻
 <div>  

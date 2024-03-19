@@ -10,8 +10,11 @@ Tenho conhecimento e experiência em:
 <ul>
     <li>Suporte ao usuário</li>
     <li>Suporte de TI N1, N2, N3</li>
-    <li>Administração de Servidores Linux (Debian, Ubuntu Server, CentOS) e Windows Server</li>
+    <li>Administração de Servidores Linux (Debian, Ubuntu Server, CentOS, Rocky Linux, AlmaLinux) e Windows Server</li>
     <li>Administração avançada de sistemas Linux e Windows</li>
+    <li>SLA, SLO e SLI</li>
+    <li>Implantação de Cenário</li>
+    <li>Cultura DevOps</li>
     <li>Configuração de rede</li>
     <li>Configuração e Administração de serviços de rede (DHCP, DNS, FTP, WEB Server, Proxy, Firewall (iptables, pfSense), SSH, VPN, NTP, FileServer, Active Directory, SAMBA, NFS)</li>
     <li>Monitoramento e Observabilidade (Zabbix, Prometheus, Grafana)</li>

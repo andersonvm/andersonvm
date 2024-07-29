@@ -2,7 +2,7 @@
 
 ### Seja bem vindo ao meu perfil aqui no GitHub 👋🏻<br />
 
-Com mais de oito anos de experiência em infraestrutura de TI, possuo experiência multifacetada na área. Sou formado em Ciência da Computação pela Universidade Federal de Ouro Preto possuo diversos cursos de formação na área de TI.
+Com mais de nove anos de experiência em infraestrutura de TI, possuo experiência multifacetada na área. Sou formado em Ciência da Computação pela Universidade Federal de Ouro Preto possuo diversos cursos de formação na área de TI.
 <br />
 <br />
 Tenho conhecimento e experiência em:

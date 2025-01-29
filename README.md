@@ -8,21 +8,11 @@ Com mais de nove anos de experiência em infraestrutura de TI, possuo experiênc
 Tenho conhecimento e experiência em:
 <br />
 <ul>
-    <li>Suporte ao usuário</li>
-    <li>Suporte de TI N1, N2, N3</li>
-    <li>Administração de Servidores Linux (Debian, Ubuntu Server, CentOS, Rocky Linux, AlmaLinux) e Windows Server</li>
-    <li>Administração avançada de sistemas Linux e Windows</li>
-    <li>SLA, SLO e SLI</li>
-    <li>Implantação de Cenário</li>
-    <li>Cultura DevOps</li>
-    <li>Configuração de rede</li>
-    <li>Configuração e Administração de serviços de rede (DHCP, DNS, FTP, WEB Server, Proxy, Firewall (iptables, pfSense), SSH, VPN, NTP, FileServer, Active Directory, SAMBA, NFS)</li>
-    <li>Monitoramento e Observabilidade (Zabbix, Prometheus, Grafana)</li>
-    <li>Preparação de scripts para automação (Shell Script, Phyton)</li>
-    <li>Gerenciamento de configuração (Ansible, AWX)</li>
-    <li>Ferramentas DevOps (Docker, Kubernetes, Jenkins, Git)</li>
-    <li>Nuvem (Azure, Terraform)</li>
-    <li>Banco de dados (MySQL)</li>
+    <li><strong>Práticas SRE e DevOps:</strong> Implementação de estratégias para garantir alta disponibilidade, resiliência e escalabilidade em sistemas críticos.</li>
+    <li><strong>Monitoramento e Observabilidade:</strong> Utilização de ferramentas como Zabbix, Prometheus, Grafana, Dynatrace, Fluentd e ELK para garantir a visibilidade de infraestrutura e aplicações.</li>
+    <li><strong>Automação e Escalabilidade:</strong> Soluções de automação com Docker, Kubernetes, Ansible, AWX e Rundeck, além de desenvolvimento de scripts em Python, Bash, Powershell, entre outros.</li>
+    <li><strong>Administração de Servidores e Suporte:</strong> Gestão de servidores Linux e Windows (Red Hat, Ubuntu, Debian, CentOS), suporte técnico e sustentação de ambientes.</li>
+    <li><strong>Treinamentos e Padronização:</strong> Criação de processos e treinamento de equipes, promovendo aprendizado contínuo e a padronização de boas práticas.</li>
 </ul>
 <br />
 

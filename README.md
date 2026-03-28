@@ -32,8 +32,6 @@ Tenho conhecimento e experiência em:
     <li>Experiência com ServiceNow, Jira e Confluence</li>
     <li>Aprofundamento contínuo em AWS, OpenTelemetry, observabilidade moderna e arquiteturas distribuídas resilientes</li>
 </ul>
-<br />
-
 ## Meus contatos 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-vieira-machado/)

@@ -9,22 +9,22 @@ Minha missão é equilibrar confiabilidade e velocidade de entrega técnica, uti
 
 ###  Tecnologias e Habilidades
 
-** SRE & Observabilidade**
+**SRE & Observabilidade**
 * **Stacks End-to-End:** OpenTelemetry, Prometheus, Grafana, Loki, Tempo, Jaeger, Mimir, Alloy, ELK, Dynatrace e Zabbix.
 * **Práticas:** Aplicação de princípios SRE (SLI, SLO, SLA, Error Budgets), Chaos Engineering e System Design.
 * **Foco:** Correlação de sinais, alerting inteligente, RCA proativa e redução drástica de MTTR/MTTA para tomada de decisão orientada a dados.
 
-** Cloud, Containers & Orquestração**
+**Cloud, Containers & Orquestração**
 * **Cloud:** Administração avançada, modernização e otimização de custos (FinOps) em AWS e Microsoft Azure.
 * **Orquestração:** Gestão de Kubernetes (AKS/EKS), OpenShift e Docker em produção.
 * **Atividades:** Provisionamento, capacity planning, resource tuning, RBAC, Network Policies, Ingress Controllers, Service Mesh e migrações zero-downtime.
 
-** Automação, IaC & CI/CD**
+**Automação, IaC & CI/CD**
 * **Infraestrutura como Código (IaC):** Terraform, Ansible e AWX.
 * **Pipelines & GitOps:** Azure DevOps, ArgoCD, Helm, Spinnaker, Backstage e XL Release (Estratégias Blue/Green e Canary).
 * **Scripting:** Elaboração de scripts em Python, ShellScript e PowerShell (Rundeck) para eliminação de toil e automação de processos.
 
-** Sistemas, Segurança & Governança**
+**Sistemas, Segurança & Governança**
 * **Administração:** Hardening, patch management e troubleshooting avançado em servidores Linux e Windows.
 * **Governança:** Elaboração de documentação técnica (POPs), gestão de incidentes críticos (War Rooms) e GMUDs via ServiceNow, Jira e Confluence.
 * **Segurança:** Correção de vulnerabilidades e práticas de segurança em ambientes produtivos.
